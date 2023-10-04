@@ -1,0 +1,21 @@
+{
+  "name": "simple-component",
+  "version": "0.0.1",
+  "description": "Mi componente pokemon lit",
+  "main": "index.js",
+  "scripts": {
+    "start": "wds --node-resolve --watch --open"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Valente Gomez Torres",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lit": "^2.8.0",
+    "lit-html": "^2.8.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.3.2"
+  }
+}
